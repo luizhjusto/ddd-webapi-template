@@ -1,0 +1,10 @@
+C:\Users\luiz.justo\Desktop\Template\Template.Api.ApplicationCore\bin\Debug\netstandard2.1\Template.Api.ApplicationCore.deps.json
+C:\Users\luiz.justo\Desktop\Template\Template.Api.ApplicationCore\bin\Debug\netstandard2.1\Template.Api.ApplicationCore.dll
+C:\Users\luiz.justo\Desktop\Template\Template.Api.ApplicationCore\bin\Debug\netstandard2.1\Template.Api.ApplicationCore.pdb
+C:\Users\luiz.justo\Desktop\Template\Template.Api.ApplicationCore\obj\Debug\netstandard2.1\Template.Api.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiz.justo\Desktop\Template\Template.Api.ApplicationCore\obj\Debug\netstandard2.1\Template.Api.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\luiz.justo\Desktop\Template\Template.Api.ApplicationCore\obj\Debug\netstandard2.1\Template.Api.ApplicationCore.AssemblyInfo.cs
+C:\Users\luiz.justo\Desktop\Template\Template.Api.ApplicationCore\obj\Debug\netstandard2.1\Template.Api.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\luiz.justo\Desktop\Template\Template.Api.ApplicationCore\obj\Debug\netstandard2.1\Template.Api.ApplicationCore.dll
+C:\Users\luiz.justo\Desktop\Template\Template.Api.ApplicationCore\obj\Debug\netstandard2.1\Template.Api.ApplicationCore.pdb
+C:\Users\luiz.justo\Desktop\Template\Template.Api.ApplicationCore\obj\Debug\netstandard2.1\Template.Api.ApplicationCore.csproj.AssemblyReference.cache
